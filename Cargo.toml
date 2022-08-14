@@ -1,6 +1,7 @@
 [package]
 name = "grrs"
 version = "0.1.0"
+edition = "2021"
 authors = ["Carlton Joseph <carlton.joseph@gmail.com>"]
 description = "A tool to search files"
 readme = "README.md"
@@ -8,8 +9,6 @@ homepage = "https://github.com/carltonj2000/grrs"
 repository = "https://github.com/carltonj2000/grrs"
 keywords = ["cli", "search", "demo"]
 categories = ["command-line-utilities"]
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 anyhow = "1.0.61"
