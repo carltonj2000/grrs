@@ -3,6 +3,7 @@ name = "grrs"
 version = "0.1.0"
 edition = "2021"
 authors = ["Carlton Joseph <carlton.joseph@gmail.com>"]
+license = "MIT OR Apache-2.0"
 description = "A tool to search files"
 readme = "README.md"
 homepage = "https://github.com/carltonj2000/grrs"
